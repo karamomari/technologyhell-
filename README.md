@@ -1,4 +1,4 @@
-## technologyhell-
+
 # 💫 About Me:
 👋 About Me<br>Hi! I'm Karam Omari, a junior web developer passionate about building secure and modern applications using ASP.NET Core and C#.<br><br>💼 Although I haven’t worked in a company yet, I’ve built several practical projects during my self-learning and training journey.<br><br>🚀 I’m continuously improving my skills in:<br><br>🛠️ Developing RESTful APIs with ASP.NET Core<br><br>📦 Using design patterns like Repository & Dependency Injection<br><br>🔐 Implementing authentication & authorization with ASP.NET Identity & JWT<br><br>🗃️ Managing data with Entity Framework Core<br><br>🔄 Mapping objects using AutoMapper<br><br>🧹 Writing clean and scalable code based on Clean Architecture<br><br>🌱 I'm eager to grow as a developer, contribute to real-world projects, and work with a professional team.<br><br>
 
